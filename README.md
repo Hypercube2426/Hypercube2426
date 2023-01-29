@@ -26,6 +26,7 @@
 <br><br>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypercube2426&show_icons=true&locale=en&layout=compact" alt="hypercube2426" /></p>
+<br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypercube2426&show_icons=true&locale=en" alt="hypercube2426" /></p>
 
