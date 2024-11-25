@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hypercube2426/Hypercube2426/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
